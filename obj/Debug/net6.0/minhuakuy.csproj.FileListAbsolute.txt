@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\minhuakuy\bin\Debug\net6.0\minhuakuy.exe
+C:\Users\hp\Desktop\minhuakuy\bin\Debug\net6.0\minhuakuy.deps.json
+C:\Users\hp\Desktop\minhuakuy\bin\Debug\net6.0\minhuakuy.runtimeconfig.json
+C:\Users\hp\Desktop\minhuakuy\bin\Debug\net6.0\minhuakuy.dll
+C:\Users\hp\Desktop\minhuakuy\bin\Debug\net6.0\minhuakuy.pdb
+C:\Users\hp\Desktop\minhuakuy\obj\Debug\net6.0\minhuakuy.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\minhuakuy\obj\Debug\net6.0\minhuakuy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\minhuakuy\obj\Debug\net6.0\minhuakuy.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\minhuakuy\obj\Debug\net6.0\minhuakuy.AssemblyInfo.cs
+C:\Users\hp\Desktop\minhuakuy\obj\Debug\net6.0\minhuakuy.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\minhuakuy\obj\Debug\net6.0\minhuakuy.dll
+C:\Users\hp\Desktop\minhuakuy\obj\Debug\net6.0\refint\minhuakuy.dll
+C:\Users\hp\Desktop\minhuakuy\obj\Debug\net6.0\minhuakuy.pdb
+C:\Users\hp\Desktop\minhuakuy\obj\Debug\net6.0\minhuakuy.genruntimeconfig.cache
+C:\Users\hp\Desktop\minhuakuy\obj\Debug\net6.0\ref\minhuakuy.dll
